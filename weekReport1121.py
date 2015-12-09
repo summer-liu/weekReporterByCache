@@ -43,7 +43,7 @@ ios = "ios"
 iosEvent = ["EnterMoviePlayerVC"]
 
 android = "android"
-androidEvent = ["playTaskVideo", "platGuideVideo"]
+androidEvent = ["playTaskVideo", "platGuideVideo"]  #play
 androidOldVersion = ["openVideo"]
 
 pc = "pc"
